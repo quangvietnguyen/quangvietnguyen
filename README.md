@@ -9,7 +9,7 @@ ABOUT CAREER:
 EXPERIENCE AND AMBITION:
 - ⌨️ Which I have learnt and exposed to: .Net and C#, C, MongoDB, MERN Stack, AngularJs, SQL (MSSQL and Oracle SQL), jQuery, HTML5, CSS3, Python, Pascal.
 - 🌱 I’m currently learning React Native ... to know how all things work together!
-- 🎯 My goal in the near future: Boostraps 4, Docker and Kubernetes, Go.
+- 🎯 My goal in the near future: GraphQL, Boostraps 4, Docker and Kubernetes, Go.
 
 MY PERSONAL LIFE:
 - 💻 Windows 11 and 🖥️ MacOS Monterey.
