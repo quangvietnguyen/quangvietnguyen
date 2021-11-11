@@ -1,4 +1,4 @@
-  👋 Hi, I’m @quangvietnguyen not nerd nguyen
+  👋 Hi, I’m @quangvietnguyen
   
 And here is something very basic about me...
 
