@@ -7,9 +7,9 @@ ABOUT CAREER:
 - 🏆 Which I am good at: 🥇 ReactJs, 🥈 NodeJs, 🥉 Java.
 
 EXPERIENCE AND AMBITION:
-- ⌨️ Which I have learnt and exposed to: .Net and C#, C, MongoDB, MERN Stack, AngularJs, SQL (MSSQL and Oracle SQL), jQuery, HTML5, CSS3, Python, Pascal, GIT, SCSS, AWS, GatsbyJs
+- ⌨️ Which I have learnt and exposed to: .Net and C#, C, MongoDB, MERN Stack, AngularJs, SQL (MSSQL and Oracle SQL), jQuery, HTML5, CSS3, Python, Pascal, GIT, SCSS, AWS, GatsbyJs, Golang
 - 🌱 I’m currently learning React Native and GatsbyJs ... to dive deeper in the frontend knowledge!
-- 🎯 My goal in the near future: GraphQL, Boostraps 4, Docker and Kubernetes, Go.
+- 🎯 My goal in the near future: GraphQL, Boostraps 4, Docker and Kubernetes.
 
 MY PERSONAL LIFE:
 - 💻 Windows 11 and 🖥️ MacOS Monterey.
