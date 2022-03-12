@@ -3,7 +3,7 @@
 And here is something very basic about me...
 
 ABOUT CAREER:
-- 👀 I’m interested in coding especially in Javascripts, NodeJs, React, Java, Python, and Swift.
+- 👀 I’m interested in coding especially in Javascripts, NodeJs, React, Java, Python, and Go.
 - 🏆 Which I am good at: 🥇 ReactJs, 🥈 NodeJs, 🥉 Java.
 
 EXPERIENCE AND AMBITION:
