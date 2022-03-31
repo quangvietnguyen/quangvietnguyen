@@ -8,7 +8,7 @@ ABOUT CAREER:
 
 EXPERIENCE AND AMBITION:
 - ⌨️ Which I have learnt and exposed to: .Net and C#, C, MongoDB, MERN Stack, AngularJs, SQL (MSSQL and Oracle SQL), jQuery, HTML5, CSS3, Python, Pascal, GIT, SCSS, AWS, GatsbyJs, Golang.
-- 🌱 I’m currently learning React Native ... to dive deeper in the frontend knowledge!
+- 🌱 I’m currently learning Solidity, Webflow and React Native ... to dive deeper in the frontend knowledge!
 - 🎯 My goal in the near future: GraphQL, Boostraps 4, Docker and Kubernetes.
 
 MY PERSONAL LIFE:
