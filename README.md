@@ -12,7 +12,7 @@ EXPERIENCE AND AMBITION:
 - 🎯 My goal in the near future: GraphQL, Boostraps 4, Docker and Kubernetes.
 
 MY PERSONAL LIFE:
-- 💻 Windows 11 and 🖥️ MacOS Monterey.
+- 💻 Windows 10, 11 and 🖥️ MacOS Monterey.
 - Like to play ⛸️ Ice-skating, 🏊 Swimming ( I have a 🤿 PADI Open Water Diving certificate! ), 📚 Reading, know a bit of 🥋 Aikido.
 - 💞️ I’m looking to collaborate on many interested projects and have more friend and fun!
 - 📫 How to reach me viet.nguyen@bitbuy.ca or (647)-994-0392
