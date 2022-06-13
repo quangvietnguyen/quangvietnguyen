@@ -15,7 +15,7 @@ MY PERSONAL LIFE:
 - 💻 Windows 10, 11 and 🖥️ MacOS Monterey.
 - Like to play ⛸️ Ice-skating, 🏊 Swimming ( I have a 🤿 PADI Open Water Diving certificate! ), 📚 Reading, know a bit of 🥋 Aikido.
 - 💞️ I’m looking to collaborate on many interested projects and have more friend and fun!
-- 📫 How to reach me viet.nguyen@bitbuy.ca or (647)-994-0392
+- 📫 How to reach me viet.ngquang92@gmail.com or (647)-994-0392
 - Oh et biensur, ⚜️ Je peux parler le francais un petit peu!
 
 <!---
